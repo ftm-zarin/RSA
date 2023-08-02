@@ -1,5 +1,4 @@
-#FatemehZarinjouee
-#981813106
+
 from datetime import datetime
 
 def LCG(a, c, m, seed):     
