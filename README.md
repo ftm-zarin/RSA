@@ -13,19 +13,6 @@ This project implements a basic RSA encryption and decryption system in Python. 
 - **ASCII and General Encoding:** Allows encryption in ASCII or other character sets.
 
 
-## Usage
-
-1. **Clone the repository**
-    ```sh
-    git clone https://github.com/ftm-zarin/rsa-encryption.git
-    cd rsa-encryption
-    ```
-
-2. **Run the script**
-    ```sh
-    python rsa_encryption.py
-    ```
-
 ### Key Generation
 
 To generate new RSA public and private keys:
